@@ -60,6 +60,7 @@ Loss Testing	= ± 0.33
 Model memenuhi seluruh kriteria tugas karena akurasi testing > 85% dan menggunakan deep learning.
 
 Daftar Pustaka
+
 •	Prasetya, A. (2025). Analisis Sentimen Ulasan Gojek 
 Pada Google Play Store Menggunakan Metode Naïve Bayes. 
 Jurnal Nasional Komputasi Dan Teknologi Informasi (Jnkti), xx(xx), 1–8.
